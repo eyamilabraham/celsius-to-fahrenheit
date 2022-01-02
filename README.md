@@ -15,4 +15,5 @@ Run the command python -m http.server 8000
 Open a browser and go to http://localhost:8000
 
 APP
+
 Move the Celsius slider, and the forecast will be displayed in Fahrenheit.
