@@ -1,8 +1,8 @@
 # celsius-to-fahrenheit
 - This is a real-time Celsius to Fahrenheit converter using Tensorflow.js, based on a model trained in Python with TensorFlow.
 
-Download the repository.
-Download the repository wherever you want on your computer.
+  1. Download the repository.
+  2. Download the repository wherever you want on your computer.
 
  # Starts a server in the folder
 
