@@ -8,11 +8,11 @@ Download the repository wherever you want on your computer.
 
 - This project uses a Tensorflow.js model, which to load requires access via http/https. For that you can use any server, but here is a way to do it:
 
-1. Download Python to your computer
-2. Open a command line or terminal
-3. Navigate to the folder where you downloaded the repository
-4. Run the command python -m http.server 8000
-5. Open a browser and go to http://localhost:8000
+ 1. Download Python to your computer
+ 2. Open a command line or terminal
+ 3. Navigate to the folder where you downloaded the repository
+ 4. Run the command python -m http.server 8000
+ 5. Open a browser and go to http://localhost:8000
 
 # APP
 
