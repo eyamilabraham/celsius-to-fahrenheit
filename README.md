@@ -6,7 +6,7 @@ Download the repository wherever you want on your computer.
 
  # Starts a server in the folder
 
-This project uses a Tensorflow.js model, which to load requires access via http/https. For that you can use any server, but here is a way to do it:
+- This project uses a Tensorflow.js model, which to load requires access via http/https. For that you can use any server, but here is a way to do it:
 
 1. Download Python to your computer
 2. Open a command line or terminal
