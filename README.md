@@ -24,3 +24,5 @@
 # APP
 
 - Move the Celsius slider, and the forecast will be displayed in Fahrenheit.
+
+![alt text](C:\Users\yamil\IdeaProjects\celsius-to-fahrenheit\pic1.jpg)
