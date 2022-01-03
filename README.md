@@ -15,7 +15,7 @@
   5. Open a browser and go to http://localhost:8000
 
 
-- **Note:** the following files must to be in the same directory otherwise the APP does not work correctly.
+- **Note:** the following files must be in the same directory otherwise the APP does not work correctly. List:
   1. model.json
   2. index.html
   3. group1-shard1of1.bin
